@@ -1,0 +1,1 @@
+Clone simplificado do Twitter feito em aula, como projeto final do curso, com auxílio de um instrutor, com o intuito de reforçar o aprendizado de todo o conteúdo aprendido durante o curso.
